@@ -1,0 +1,1 @@
+Minimize all the windows Running in the Background.  
